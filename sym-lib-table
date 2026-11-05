@@ -1,5 +1,0 @@
-(sym_lib_table
-  (version 7)
-  (lib (name "blank")(type "KiCad")(uri "NA")(options "")(descr "")(disabled)(hidden))
-  (lib (name "tft_320x240")(type "KiCad")(uri "C:/Users/ayche/Documents/ECE362/PCB design/LCDSYM/tft_320x240.kicad_sym")(options "")(descr ""))
-)
