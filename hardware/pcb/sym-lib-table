@@ -1,5 +1,8 @@
 (sym_lib_table
-  (version 7)
-  (lib (name "blank")(type "KiCad")(uri "NA")(options "")(descr "")(disabled)(hidden))
-  (lib (name "tft_320x240")(type "KiCad")(uri "C:/Users/ayche/Documents/ECE362/PCB design/LCDSYM/tft_320x240.kicad_sym")(options "")(descr ""))
+	(version 7)
+	(lib (name "blank") (type "KiCad") (uri "NA") (options "") (descr "") (disabled) (hidden))
+	(lib (name "tft_320x240") (type "KiCad") (uri "${KIPRJMOD}/tft_320x240.kicad_sym") (options "") (descr ""))
+	(lib (name "RPI - BOM Directives") (type "KiCad") (uri "${KIPRJMOD}/RPI - BOM Directives.kicad_sym") (options "") (descr "Recovered from embedded project symbols"))
+	(lib (name "RPI - Power") (type "KiCad") (uri "${KIPRJMOD}/RPI - Power.kicad_sym") (options "") (descr "Recovered from embedded project symbols"))
+	(lib (name "RPI_DB") (type "KiCad") (uri "${KIPRJMOD}/RPI_DB.kicad_sym") (options "") (descr "Recovered from embedded project symbols"))
 )
